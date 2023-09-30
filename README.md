@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valdruide&theme=merko" alt="valdruide" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdruide&show_icons=true&theme=merko&locale=en&layout=compact" alt="valdruide" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdruide&show_icons=true&theme=merko&locale=en&layout=donut" alt="valdruide" /></p>
