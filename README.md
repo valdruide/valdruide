@@ -11,7 +11,7 @@
 
 <h2 align="center">Infos</h2>
 
-- 🔭 I’m currently working **at Roofline (France)**
+- 🔭 I’m currently working **at Emerell Boréale (France)**
 
 - 🌱 I’m currently learning **React & Reactnative**
 
