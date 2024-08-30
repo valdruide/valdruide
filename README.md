@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React & Reactnative**
 
-- 📫 How to reach me **contact@tristan-viard.fr**
+- 📫 How to reach me **contact@emerell-boreale.fr**
 
 - ⚡ Fun fact **i have a 1500 year old human arm bone in my living room (true)**
 
